@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967561961100",
+    "firebase_url": "https://omeesha-salon-app.firebaseio.com",
+    "project_id": "omeesha-salon-app",
+    "storage_bucket": "omeesha-salon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967561961100:android:e8df7bee1c329c9b2d25a9",
+        "android_client_info": {
+          "package_name": "com.sangpriyas.omeesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967561961100-iljpk298f228352iuj42nsrp1sj3spff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ntVy9ROEnp_88oKK4VI-Nip05j6Vd70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967561961100-iljpk298f228352iuj42nsrp1sj3spff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
