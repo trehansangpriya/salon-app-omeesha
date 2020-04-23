@@ -1,4 +1,4 @@
-package com.example.omeesha
+package com.sangpriyas.omeesha
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
