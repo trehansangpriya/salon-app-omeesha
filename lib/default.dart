@@ -24,7 +24,7 @@ class _HomePageLayoutState extends State<HomePageLayout> {
             //App Bar
             AppBar(
               titleSpacing: 6,
-              backgroundColor: Colors.blueAccent,
+              backgroundColor: Colors.blue,
               centerTitle: true,
               title: Text(
                 'Omeesha',
